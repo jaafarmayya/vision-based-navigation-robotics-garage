@@ -161,7 +161,7 @@ The architecture was customized by modifying the MobileNet output and adding a D
 
 The model achieved an accuracy of 98.58% and an F1-score of 0.9857 in digit recognition, demonstrating effective solutions for autonomous navigation and slot identification in a structured environment.
  <p align="center">
-  <img src="images/mix.PNG" alt="robot schema" style="border-radius: 15px;" />
+  <img src="images/mix.PNG" alt="robot schema" width="50%" style="border-radius: 15px;" />
   </p>
   <p align="center" style="font-size:12px; color:grey; font-style:italic;">
     <i>Figure 10: Confusion Matrix</i>
